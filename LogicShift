@@ -1,4 +1,4 @@
-import discord #1
+import discord #
 
 client = discord.Client()
 
