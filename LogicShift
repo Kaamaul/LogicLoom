@@ -1,5 +1,4 @@
 import discord #1
-
 client = discord.Client()
 
 @client.event
